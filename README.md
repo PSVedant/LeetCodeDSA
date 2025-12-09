@@ -23,4 +23,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-new-21-game](https://github.com/PSVedant/LeetCodeDSA/tree/master/0867-new-21-game) |
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/PSVedant/LeetCodeDSA/tree/master/0024-swap-nodes-in-pairs) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/PSVedant/LeetCodeDSA/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
